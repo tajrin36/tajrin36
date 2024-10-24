@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="165" src="https://i.postimg.cc/PJVQk2wG/girl.gif"  />
+  <img height="300" src="https://i.postimg.cc/PJVQk2wG/girl.gif"  />
 </div>
 
 ###
@@ -77,7 +77,7 @@
 <img src="https://streak-stats.demolab.com?user=tajrin36&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div>
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tajrin36&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
